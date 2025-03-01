@@ -6,7 +6,7 @@
 # print(7//3) # for rounded value
 
 # PEMDAS
-# perenthesis, exponents, multiplication, division, addition, substraction
+# perenthesis, exponents, multiplication, division, addition, substraction5
 
 # print("send some money", 25*4 + 15*40 + 75-12)
 
@@ -246,4 +246,4 @@ elif review >= 5 and review < 9:
     suggestion = input("how can we improve our products and services? ")
     print(suggestion,"!" "we will work hard to improve our products and sevices")
 else:
-    print("sorry for inconvinience we will improve soon")    
+    print("sorry for inconvinience we will improve soon")
